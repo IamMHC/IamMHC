@@ -4,9 +4,8 @@
 
 ### Senior Full Stack Developer | Open Source Enthusiast | Tech Innovator
 
+[![Website](https://img.shields.io/badge/Website-iammhc.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iammhc.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IamMHC/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
 
@@ -146,7 +145,7 @@ I'm always interested in collaborating on innovative projects, discussing techno
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/iammhc/count.svg)
+![](https://komarev.com/ghpvc/?username=iammhc&style=for-the-badge&color=blue)
 
 **⭐️ From [IamMHC](https://github.com/iammhc) | Building the future, one commit at a time**
 
